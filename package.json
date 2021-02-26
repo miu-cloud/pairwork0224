@@ -1,0 +1,9 @@
+{
+  "name": "pearwork0224",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4",
+    "jquery": "^3.5.1",
+    "jquery-easing": "^0.0.1"
+  }
+}
